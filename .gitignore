@@ -1,0 +1,17 @@
+# Tidak upload README
+Readme.md
+README.md
+
+# Folder percobaan
+scratch/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+*.bak
+
+# Environment
+.env

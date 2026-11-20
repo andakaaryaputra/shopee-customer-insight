@@ -1,0 +1,231 @@
+id_pembeli,recency_hari,frequency,monetary_rp,is_outlier_recency_hari,is_outlier_frequency,is_outlier_monetary_rp,is_outlier_any,r_score,m_score,f_score,rfm_score_str,segmen_aturan,cluster_kmeans_k3
+CUST_001,381,1,105500.0,False,False,False,False,2,4,1,2-1-4,Berisiko (At Risk),2
+CUST_002,328,1,52000.0,False,False,False,False,2,1,1,2-1-1,Berisiko (At Risk),2
+CUST_003,104,1,158950.0,False,False,False,False,5,4,1,5-1-4,Pembeli Potensial,0
+CUST_005,164,1,234600.0,False,False,False,False,4,5,1,4-1-5,Pembeli Potensial,0
+CUST_006,116,1,87400.0,False,False,False,False,4,2,1,4-1-2,Pembeli Baru,0
+CUST_008,151,2,144000.0,False,True,False,True,4,4,3,4-3-4,Pelanggan Loyal,1
+CUST_009,392,1,207200.0,False,False,False,False,1,5,1,1-1-5,Tidak Aktif (Lost),2
+CUST_010,283,1,103960.0,False,False,False,False,2,4,1,2-1-4,Berisiko (At Risk),2
+CUST_011,147,1,92000.0,False,False,False,False,4,3,1,4-1-3,Pembeli Potensial,0
+CUST_012,345,1,48035.0,False,False,False,False,2,1,1,2-1-1,Berisiko (At Risk),2
+CUST_013,223,1,91900.0,False,False,False,False,3,3,1,3-1-3,Berisiko (At Risk),0
+CUST_014,272,4,214246.0,False,True,False,True,3,5,5,3-5-5,Pelanggan Loyal,1
+CUST_015,94,1,78230.0,False,False,False,False,5,2,1,5-1-2,Pembeli Baru,0
+CUST_016,472,1,92000.0,False,False,False,False,1,3,1,1-1-3,Tidak Aktif (Lost),2
+CUST_017,457,2,415950.0,False,True,True,True,1,5,3,1-3-5,Pelanggan Loyal,1
+CUST_018,0,1,265900.0,False,False,False,False,5,5,1,5-1-5,Pembeli Potensial,0
+CUST_020,37,1,131955.0,False,False,False,False,5,4,1,5-1-4,Pembeli Potensial,0
+CUST_021,248,1,572169.0,False,False,True,True,3,5,1,3-1-5,Berisiko (At Risk),0
+CUST_022,137,1,89000.0,False,False,False,False,4,2,1,4-1-2,Pembeli Baru,0
+CUST_023,100,1,119350.0,False,False,False,False,5,4,1,5-1-4,Pembeli Potensial,0
+CUST_024,143,1,177365.0,False,False,False,False,4,4,1,4-1-4,Pembeli Potensial,0
+CUST_025,137,1,105877.0,False,False,False,False,4,4,1,4-1-4,Pembeli Potensial,0
+CUST_026,266,1,90500.0,False,False,False,False,3,3,1,3-1-3,Berisiko (At Risk),2
+CUST_027,266,1,46900.0,False,False,False,False,3,1,1,3-1-1,Berisiko (At Risk),2
+CUST_028,107,1,77225.0,False,False,False,False,5,1,1,5-1-1,Pembeli Baru,0
+CUST_029,93,1,112650.0,False,False,False,False,5,4,1,5-1-4,Pembeli Potensial,0
+CUST_030,347,1,323500.0,False,False,True,True,2,5,1,2-1-5,Berisiko (At Risk),2
+CUST_031,43,1,87500.0,False,False,False,False,5,2,1,5-1-2,Pembeli Baru,0
+CUST_032,135,1,258400.0,False,False,False,False,4,5,1,4-1-5,Pembeli Potensial,0
+CUST_034,355,1,0.0,False,False,False,False,2,1,1,2-1-1,Berisiko (At Risk),2
+CUST_036,190,1,294400.0,False,False,False,False,3,5,1,3-1-5,Berisiko (At Risk),0
+CUST_038,355,1,52000.0,False,False,False,False,2,1,1,2-1-1,Berisiko (At Risk),2
+CUST_039,450,1,198400.0,False,False,False,False,1,4,1,1-1-4,Tidak Aktif (Lost),2
+CUST_040,397,1,50713.0,False,False,False,False,1,1,1,1-1-1,Tidak Aktif (Lost),2
+CUST_041,17,1,52900.0,False,False,False,False,5,1,1,5-1-1,Pembeli Baru,0
+CUST_042,359,1,51187.0,False,False,False,False,2,1,1,2-1-1,Berisiko (At Risk),2
+CUST_043,369,2,454000.0,False,True,True,True,2,5,3,2-3-5,Pelanggan Loyal,1
+CUST_044,285,1,96900.0,False,False,False,False,2,3,1,2-1-3,Berisiko (At Risk),2
+CUST_045,190,1,103000.0,False,False,False,False,3,3,1,3-1-3,Berisiko (At Risk),0
+CUST_046,268,1,87400.0,False,False,False,False,3,2,1,3-1-2,Berisiko (At Risk),2
+CUST_047,245,1,354000.0,False,False,True,True,3,5,1,3-1-5,Berisiko (At Risk),0
+CUST_048,146,1,82500.0,False,False,False,False,4,2,1,4-1-2,Pembeli Baru,0
+CUST_049,136,1,53500.0,False,False,False,False,4,1,1,4-1-1,Pembeli Baru,0
+CUST_050,392,1,52000.0,False,False,False,False,1,1,1,1-1-1,Tidak Aktif (Lost),2
+CUST_051,267,1,47800.0,False,False,False,False,3,1,1,3-1-1,Berisiko (At Risk),2
+CUST_052,94,1,79450.0,False,False,False,False,5,2,1,5-1-2,Pembeli Baru,0
+CUST_053,149,1,90540.0,False,False,False,False,4,3,1,4-1-3,Pembeli Potensial,0
+CUST_054,80,2,138500.0,False,True,False,True,5,4,3,5-3-4,Pelanggan Loyal,1
+CUST_055,334,1,97000.0,False,False,False,False,2,3,1,2-1-3,Berisiko (At Risk),2
+CUST_056,33,1,156737.0,False,False,False,False,5,4,1,5-1-4,Pembeli Potensial,0
+CUST_057,275,1,46900.0,False,False,False,False,2,1,1,2-1-1,Berisiko (At Risk),2
+CUST_058,383,1,99071.0,False,False,False,False,2,3,1,2-1-3,Berisiko (At Risk),2
+CUST_059,381,1,47000.0,False,False,False,False,2,1,1,2-1-1,Berisiko (At Risk),2
+CUST_061,255,2,64305.0,False,True,False,True,3,1,3,3-3-1,Pelanggan Loyal,1
+CUST_062,272,1,52000.0,False,False,False,False,3,1,1,3-1-1,Berisiko (At Risk),2
+CUST_063,276,1,82000.0,False,False,False,False,2,2,1,2-1-2,Berisiko (At Risk),2
+CUST_064,137,1,87500.0,False,False,False,False,4,2,1,4-1-2,Pembeli Baru,0
+CUST_065,253,1,309667.0,False,False,False,False,3,5,1,3-1-5,Berisiko (At Risk),0
+CUST_066,123,1,77950.0,False,False,False,False,4,2,1,4-1-2,Pembeli Baru,0
+CUST_067,386,1,99500.0,False,False,False,False,2,3,1,2-1-3,Berisiko (At Risk),2
+CUST_068,346,1,42000.0,False,False,False,False,2,1,1,2-1-1,Berisiko (At Risk),2
+CUST_069,254,1,173562.0,False,False,False,False,3,4,1,3-1-4,Berisiko (At Risk),2
+CUST_071,284,1,53000.0,False,False,False,False,2,1,1,2-1-1,Berisiko (At Risk),2
+CUST_072,502,1,137500.0,False,False,False,False,1,4,1,1-1-4,Tidak Aktif (Lost),2
+CUST_073,264,1,47900.0,False,False,False,False,3,1,1,3-1-1,Berisiko (At Risk),2
+CUST_074,467,1,102000.0,False,False,False,False,1,3,1,1-1-3,Tidak Aktif (Lost),2
+CUST_075,490,1,97000.0,False,False,False,False,1,3,1,1-1-3,Tidak Aktif (Lost),2
+CUST_076,120,1,83080.0,False,False,False,False,4,2,1,4-1-2,Pembeli Baru,0
+CUST_077,254,1,126823.0,False,False,False,False,3,4,1,3-1-4,Berisiko (At Risk),2
+CUST_078,180,3,303500.0,False,True,False,True,4,5,5,4-5-5,Pelanggan Loyal,1
+CUST_079,343,1,292000.0,False,False,False,False,2,5,1,2-1-5,Berisiko (At Risk),2
+CUST_080,476,1,99250.0,False,False,False,False,1,3,1,1-1-3,Tidak Aktif (Lost),2
+CUST_082,334,1,249440.0,False,False,False,False,2,5,1,2-1-5,Berisiko (At Risk),2
+CUST_083,276,1,89751.0,False,False,False,False,2,2,1,2-1-2,Berisiko (At Risk),2
+CUST_086,505,1,176000.0,False,False,False,False,1,4,1,1-1-4,Tidak Aktif (Lost),2
+CUST_087,27,1,51078.0,False,False,False,False,5,1,1,5-1-1,Pembeli Baru,0
+CUST_089,269,1,96900.0,False,False,False,False,3,3,1,3-1-3,Berisiko (At Risk),2
+CUST_090,124,2,189500.0,False,True,False,True,4,4,3,4-3-4,Pelanggan Loyal,1
+CUST_091,138,1,87400.0,False,False,False,False,4,2,1,4-1-2,Pembeli Baru,0
+CUST_092,94,2,82000.0,False,True,False,True,5,2,3,5-3-2,Pelanggan Loyal,1
+CUST_093,246,1,257100.0,False,False,False,False,3,5,1,3-1-5,Berisiko (At Risk),0
+CUST_094,470,1,97000.0,False,False,False,False,1,3,1,1-1-3,Tidak Aktif (Lost),2
+CUST_095,126,1,124515.0,False,False,False,False,4,4,1,4-1-4,Pembeli Potensial,0
+CUST_096,174,1,208000.0,False,False,False,False,4,5,1,4-1-5,Pembeli Potensial,0
+CUST_097,437,1,96800.0,False,False,False,False,1,3,1,1-1-3,Tidak Aktif (Lost),2
+CUST_098,487,1,97000.0,False,False,False,False,1,3,1,1-1-3,Tidak Aktif (Lost),2
+CUST_099,108,3,176700.0,False,True,False,True,5,4,5,5-5-4,Pelanggan Loyal,1
+CUST_100,476,1,89875.0,False,False,False,False,1,2,1,1-1-2,Tidak Aktif (Lost),2
+CUST_102,273,1,87400.0,False,False,False,False,2,2,1,2-1-2,Berisiko (At Risk),2
+CUST_103,125,1,302120.0,False,False,False,False,4,5,1,4-1-5,Pembeli Potensial,0
+CUST_104,267,1,89920.0,False,False,False,False,3,3,1,3-1-3,Berisiko (At Risk),2
+CUST_105,145,3,444580.0,False,True,True,True,4,5,5,4-5-5,Pelanggan Loyal,1
+CUST_106,265,1,1000.0,False,False,False,False,3,1,1,3-1-1,Berisiko (At Risk),2
+CUST_107,463,2,299650.0,False,True,False,True,1,5,3,1-3-5,Pelanggan Loyal,1
+CUST_108,270,1,192000.0,False,False,False,False,3,4,1,3-1-4,Berisiko (At Risk),2
+CUST_109,434,1,88000.0,False,False,False,False,1,2,1,1-1-2,Tidak Aktif (Lost),2
+CUST_110,479,1,97000.0,False,False,False,False,1,3,1,1-1-3,Tidak Aktif (Lost),2
+CUST_111,114,1,79450.0,False,False,False,False,4,2,1,4-1-2,Pembeli Baru,0
+CUST_112,349,6,1419219.0,False,True,True,True,2,5,5,2-5-5,Pelanggan Loyal,1
+CUST_113,318,2,460060.0,False,True,True,True,2,5,3,2-3-5,Pelanggan Loyal,1
+CUST_114,397,1,52000.0,False,False,False,False,1,1,1,1-1-1,Tidak Aktif (Lost),2
+CUST_115,118,1,87495.0,False,False,False,False,4,2,1,4-1-2,Pembeli Baru,0
+CUST_116,415,1,52242.0,False,False,False,False,1,1,1,1-1-1,Tidak Aktif (Lost),2
+CUST_117,18,1,95576.0,False,False,False,False,5,3,1,5-1-3,Pembeli Potensial,0
+CUST_118,257,1,107870.0,False,False,False,False,3,4,1,3-1-4,Berisiko (At Risk),2
+CUST_120,456,1,58000.0,False,False,False,False,1,1,1,1-1-1,Tidak Aktif (Lost),2
+CUST_121,271,1,96900.0,False,False,False,False,3,3,1,3-1-3,Berisiko (At Risk),2
+CUST_122,273,1,89000.0,False,False,False,False,2,2,1,2-1-2,Berisiko (At Risk),2
+CUST_123,114,1,78950.0,False,False,False,False,4,2,1,4-1-2,Pembeli Baru,0
+CUST_124,283,1,55500.0,False,False,False,False,2,1,1,2-1-1,Berisiko (At Risk),2
+CUST_125,482,1,159500.0,False,False,False,False,1,4,1,1-1-4,Tidak Aktif (Lost),2
+CUST_126,50,1,458200.0,False,False,True,True,5,5,1,5-1-5,Pembeli Potensial,0
+CUST_128,117,1,97000.0,False,False,False,False,4,3,1,4-1-3,Pembeli Potensial,0
+CUST_129,119,1,171740.0,False,False,False,False,4,4,1,4-1-4,Pembeli Potensial,0
+CUST_130,272,1,91900.0,False,False,False,False,3,3,1,3-1-3,Berisiko (At Risk),2
+CUST_131,30,1,97500.0,False,False,False,False,5,3,1,5-1-3,Pembeli Potensial,0
+CUST_132,387,1,92000.0,False,False,False,False,2,3,1,2-1-3,Berisiko (At Risk),2
+CUST_133,71,1,49500.0,False,False,False,False,5,1,1,5-1-1,Pembeli Baru,0
+CUST_134,261,1,288495.0,False,False,False,False,3,5,1,3-1-5,Berisiko (At Risk),0
+CUST_135,417,1,92000.0,False,False,False,False,1,3,1,1-1-3,Tidak Aktif (Lost),2
+CUST_136,264,1,58000.0,False,False,False,False,3,1,1,3-1-1,Berisiko (At Risk),2
+CUST_137,283,1,158600.0,False,False,False,False,2,4,1,2-1-4,Berisiko (At Risk),2
+CUST_138,255,1,99800.0,False,False,False,False,3,3,1,3-1-3,Berisiko (At Risk),2
+CUST_139,255,1,47800.0,False,False,False,False,3,1,1,3-1-1,Berisiko (At Risk),2
+CUST_140,133,1,337695.0,False,False,True,True,4,5,1,4-1-5,Pembeli Potensial,0
+CUST_142,109,1,78850.0,False,False,False,False,5,2,1,5-1-2,Pembeli Baru,0
+CUST_143,346,1,97000.0,False,False,False,False,2,3,1,2-1-3,Berisiko (At Risk),2
+CUST_144,108,1,78850.0,False,False,False,False,5,2,1,5-1-2,Pembeli Baru,0
+CUST_145,285,1,97000.0,False,False,False,False,2,3,1,2-1-3,Berisiko (At Risk),2
+CUST_146,285,1,230495.0,False,False,False,False,2,5,1,2-1-5,Berisiko (At Risk),2
+CUST_147,131,1,178330.0,False,False,False,False,4,4,1,4-1-4,Pembeli Potensial,0
+CUST_148,125,1,79450.0,False,False,False,False,4,2,1,4-1-2,Pembeli Baru,0
+CUST_149,268,1,333855.0,False,False,True,True,3,5,1,3-1-5,Berisiko (At Risk),0
+CUST_150,266,1,86500.0,False,False,False,False,3,2,1,3-1-2,Berisiko (At Risk),2
+CUST_151,128,1,135980.0,False,False,False,False,4,4,1,4-1-4,Pembeli Potensial,0
+CUST_152,134,1,385750.0,False,False,True,True,4,5,1,4-1-5,Pembeli Potensial,0
+CUST_154,112,1,77950.0,False,False,False,False,5,2,1,5-1-2,Pembeli Baru,0
+CUST_155,46,1,187400.0,False,False,False,False,5,4,1,5-1-4,Pembeli Potensial,0
+CUST_156,395,1,1013724.0,False,False,True,True,1,5,1,1-1-5,Tidak Aktif (Lost),2
+CUST_157,323,1,91900.0,False,False,False,False,2,3,1,2-1-3,Berisiko (At Risk),2
+CUST_158,394,1,52000.0,False,False,False,False,1,1,1,1-1-1,Tidak Aktif (Lost),2
+CUST_159,275,1,92000.0,False,False,False,False,2,3,1,2-1-3,Berisiko (At Risk),2
+CUST_160,253,1,89911.0,False,False,False,False,3,2,1,3-1-2,Berisiko (At Risk),2
+CUST_161,443,1,153900.0,False,False,False,False,1,4,1,1-1-4,Tidak Aktif (Lost),2
+CUST_163,473,1,87128.0,False,False,False,False,1,2,1,1-1-2,Tidak Aktif (Lost),2
+CUST_165,63,1,88000.0,False,False,False,False,5,2,1,5-1-2,Pembeli Baru,0
+CUST_166,161,3,377100.0,False,True,True,True,4,5,5,4-5-5,Pelanggan Loyal,1
+CUST_167,486,2,254000.0,False,True,False,True,1,5,3,1-3-5,Pelanggan Loyal,1
+CUST_168,2,1,91300.0,False,False,False,False,5,3,1,5-1-3,Pembeli Potensial,0
+CUST_169,481,1,156000.0,False,False,False,False,1,4,1,1-1-4,Tidak Aktif (Lost),2
+CUST_170,121,1,78950.0,False,False,False,False,4,2,1,4-1-2,Pembeli Baru,0
+CUST_171,125,1,78950.0,False,False,False,False,4,2,1,4-1-2,Pembeli Baru,0
+CUST_173,278,1,110200.0,False,False,False,False,2,4,1,2-1-4,Berisiko (At Risk),2
+CUST_174,388,1,53500.0,False,False,False,False,1,1,1,1-1-1,Tidak Aktif (Lost),2
+CUST_175,361,1,52000.0,False,False,False,False,2,1,1,2-1-1,Berisiko (At Risk),2
+CUST_176,130,1,246424.0,False,False,False,False,4,5,1,4-1-5,Pembeli Potensial,0
+CUST_177,273,1,83000.0,False,False,False,False,2,2,1,2-1-2,Berisiko (At Risk),2
+CUST_178,50,1,172000.0,False,False,False,False,5,4,1,5-1-4,Pembeli Potensial,0
+CUST_179,74,1,97000.0,False,False,False,False,5,3,1,5-1-3,Pembeli Potensial,0
+CUST_180,97,1,76500.0,False,False,False,False,5,1,1,5-1-1,Pembeli Baru,0
+CUST_181,156,1,192405.0,False,False,False,False,4,4,1,4-1-4,Pembeli Potensial,0
+CUST_183,133,1,77562.0,False,False,False,False,4,2,1,4-1-2,Pembeli Baru,0
+CUST_184,135,2,345800.0,False,True,True,True,4,5,3,4-3-5,Pelanggan Loyal,1
+CUST_185,414,1,100000.0,False,False,False,False,1,3,1,1-1-3,Tidak Aktif (Lost),2
+CUST_186,475,2,280000.0,False,True,False,True,1,5,3,1-3-5,Pelanggan Loyal,1
+CUST_187,126,1,87500.0,False,False,False,False,4,2,1,4-1-2,Pembeli Baru,0
+CUST_188,445,1,206045.0,False,False,False,False,1,5,1,1-1-5,Tidak Aktif (Lost),2
+CUST_189,256,1,51900.0,False,False,False,False,3,1,1,3-1-1,Berisiko (At Risk),2
+CUST_190,263,1,42400.0,False,False,False,False,3,1,1,3-1-1,Berisiko (At Risk),2
+CUST_191,433,2,348000.0,False,True,True,True,1,5,3,1-3-5,Pelanggan Loyal,1
+CUST_192,29,2,251500.0,False,True,False,True,5,5,3,5-3-5,Pelanggan Loyal,1
+CUST_193,50,1,98000.0,False,False,False,False,5,3,1,5-1-3,Pembeli Potensial,0
+CUST_194,46,1,85913.0,False,False,False,False,5,2,1,5-1-2,Pembeli Baru,0
+CUST_195,391,1,52000.0,False,False,False,False,1,1,1,1-1-1,Tidak Aktif (Lost),2
+CUST_196,211,1,213500.0,False,False,False,False,3,5,1,3-1-5,Berisiko (At Risk),0
+CUST_197,253,1,89911.0,False,False,False,False,3,2,1,3-1-2,Berisiko (At Risk),2
+CUST_198,196,1,97000.0,False,False,False,False,3,3,1,3-1-3,Berisiko (At Risk),0
+CUST_199,272,1,101000.0,False,False,False,False,3,3,1,3-1-3,Berisiko (At Risk),2
+CUST_201,204,1,104000.0,False,False,False,False,3,4,1,3-1-4,Berisiko (At Risk),0
+CUST_203,119,1,79450.0,False,False,False,False,4,2,1,4-1-2,Pembeli Baru,0
+CUST_204,100,1,155800.0,False,False,False,False,5,4,1,5-1-4,Pembeli Potensial,0
+CUST_205,77,1,177500.0,False,False,False,False,5,4,1,5-1-4,Pembeli Potensial,0
+CUST_206,489,1,175634.0,False,False,False,False,1,4,1,1-1-4,Tidak Aktif (Lost),2
+CUST_207,451,1,141500.0,False,False,False,False,1,4,1,1-1-4,Tidak Aktif (Lost),2
+CUST_208,473,1,213372.0,False,False,False,False,1,5,1,1-1-5,Tidak Aktif (Lost),2
+CUST_210,255,1,113000.0,False,False,False,False,3,4,1,3-1-4,Berisiko (At Risk),2
+CUST_211,263,1,90500.0,False,False,False,False,3,3,1,3-1-3,Berisiko (At Risk),2
+CUST_212,298,1,96900.0,False,False,False,False,2,3,1,2-1-3,Berisiko (At Risk),2
+CUST_213,144,1,46064.0,False,False,False,False,4,1,1,4-1-1,Pembeli Baru,0
+CUST_214,106,1,77390.0,False,False,False,False,5,2,1,5-1-2,Pembeli Baru,0
+CUST_215,118,1,128700.0,False,False,False,False,4,4,1,4-1-4,Pembeli Potensial,0
+CUST_216,185,1,385400.0,False,False,True,True,4,5,1,4-1-5,Pembeli Potensial,0
+CUST_218,255,1,89911.0,False,False,False,False,3,2,1,3-1-2,Berisiko (At Risk),2
+CUST_219,16,1,85500.0,False,False,False,False,5,2,1,5-1-2,Pembeli Baru,0
+CUST_220,51,1,352500.0,False,False,True,True,5,5,1,5-1-5,Pembeli Potensial,0
+CUST_221,130,1,83000.0,False,False,False,False,4,2,1,4-1-2,Pembeli Baru,0
+CUST_223,270,1,97000.0,False,False,False,False,3,3,1,3-1-3,Berisiko (At Risk),2
+CUST_224,357,1,52000.0,False,False,False,False,2,1,1,2-1-1,Berisiko (At Risk),2
+CUST_225,103,1,77950.0,False,False,False,False,5,2,1,5-1-2,Pembeli Baru,0
+CUST_226,264,1,55400.0,False,False,False,False,3,1,1,3-1-1,Berisiko (At Risk),2
+CUST_227,270,1,402000.0,False,False,True,True,3,5,1,3-1-5,Berisiko (At Risk),0
+CUST_228,266,1,87500.0,False,False,False,False,3,2,1,3-1-2,Berisiko (At Risk),2
+CUST_229,283,1,51900.0,False,False,False,False,2,1,1,2-1-1,Berisiko (At Risk),2
+CUST_230,268,1,87500.0,False,False,False,False,3,2,1,3-1-2,Berisiko (At Risk),2
+CUST_231,448,1,86096.0,False,False,False,False,1,2,1,1-1-2,Tidak Aktif (Lost),2
+CUST_232,380,1,101000.0,False,False,False,False,2,3,1,2-1-3,Berisiko (At Risk),2
+CUST_234,48,1,48500.0,False,False,False,False,5,1,1,5-1-1,Pembeli Baru,0
+CUST_236,436,1,73500.0,False,False,False,False,1,1,1,1-1-1,Tidak Aktif (Lost),2
+CUST_237,263,1,89000.0,False,False,False,False,3,2,1,3-1-2,Berisiko (At Risk),2
+CUST_238,107,1,345300.0,False,False,True,True,5,5,1,5-1-5,Pembeli Potensial,0
+CUST_239,119,1,83950.0,False,False,False,False,4,2,1,4-1-2,Pembeli Baru,0
+CUST_240,307,1,51890.0,False,False,False,False,2,1,1,2-1-1,Berisiko (At Risk),2
+CUST_241,473,1,52000.0,False,False,False,False,1,1,1,1-1-1,Tidak Aktif (Lost),2
+CUST_242,7,1,160100.0,False,False,False,False,5,4,1,5-1-4,Pembeli Potensial,0
+CUST_243,92,1,78950.0,False,False,False,False,5,2,1,5-1-2,Pembeli Baru,0
+CUST_244,387,1,180298.0,False,False,False,False,2,4,1,2-1-4,Berisiko (At Risk),2
+CUST_245,268,1,46900.0,False,False,False,False,3,1,1,3-1-1,Berisiko (At Risk),2
+CUST_246,68,2,222000.0,False,True,False,True,5,5,3,5-3-5,Pelanggan Loyal,1
+CUST_249,170,1,139100.0,False,False,False,False,4,4,1,4-1-4,Pembeli Potensial,0
+CUST_250,74,1,293500.0,False,False,False,False,5,5,1,5-1-5,Pembeli Potensial,0
+CUST_251,349,1,100000.0,False,False,False,False,2,3,1,2-1-3,Berisiko (At Risk),2
+CUST_252,479,1,147000.0,False,False,False,False,1,4,1,1-1-4,Tidak Aktif (Lost),2
+CUST_253,111,1,152980.0,False,False,False,False,5,4,1,5-1-4,Pembeli Potensial,0
+CUST_254,35,1,289600.0,False,False,False,False,5,5,1,5-1-5,Pembeli Potensial,0
+CUST_256,204,1,97000.0,False,False,False,False,3,3,1,3-1-3,Berisiko (At Risk),0
+CUST_257,283,1,114700.0,False,False,False,False,2,4,1,2-1-4,Berisiko (At Risk),2
+CUST_259,387,1,52000.0,False,False,False,False,2,1,1,2-1-1,Berisiko (At Risk),2
+CUST_261,23,1,134000.0,False,False,False,False,5,4,1,5-1-4,Pembeli Potensial,0
+CUST_262,436,1,97000.0,False,False,False,False,1,3,1,1-1-3,Tidak Aktif (Lost),2
+CUST_263,388,1,51500.0,False,False,False,False,1,1,1,1-1-1,Tidak Aktif (Lost),2
